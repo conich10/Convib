@@ -20,4 +20,3 @@ https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdn
 cd $HOME
 mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_app
 WALLETADDRESS=""
-APPNAME=helloworld_"${WALLETADDRESS:4:6}"
