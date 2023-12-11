@@ -17,5 +17,3 @@ cargo install --path .
 بعد از دریافت فاست به لینک زیر برید و افزونه را به مرورگر کروم اضافه کنید
 https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejhlpcmifheolpl
 ------------------------------------------------------------------
-cd $HOME
-mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_
