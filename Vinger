@@ -12,5 +12,4 @@ cd snarkOS
 ./build_ubuntu.sh
 cargo install --path .
 توییت برای فاست
-------------------------------------------------------------------
-@AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndu
+----------------------------------------------------------------
